@@ -11,7 +11,7 @@ export const Contact = () => {
 
           <div className="contact-form">
 
-              <form method='POST' action="">
+              <form method='POST' action="https://formlinx.onrender.com/api/form/X9RQ7qyU3">
                   
                   <input required placeholder='Your Name Please' name='name' type="text" />
                   
