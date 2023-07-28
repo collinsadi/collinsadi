@@ -1,0 +1,44 @@
+.stack-section{
+
+    width: 100%;
+    padding: 15px;
+}
+.stack-section-inner{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.section-title{
+
+    color: var(--neutral2);
+    font-size: 30px;
+}
+
+
+.stack-list{
+
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.stack{
+
+    width: 300px;
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--neutral2);
+    font-size: 25px;
+}
+
+.stack-language{
+
+    margin-left: 10px;
+}
