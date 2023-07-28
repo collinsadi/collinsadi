@@ -2,7 +2,7 @@ import React from 'react'
 
 
 import { FiExternalLink } from "react-icons/fi"
-import {GrOverview} from "react-icons/gr"
+
 
 
 
@@ -36,7 +36,7 @@ export const ProjectsCard = ({image,title,desc,icons,link}) => {
 
                 <div className="project-navigation">
               
-                    <p><a target='_blank' href={link}>  <FiExternalLink/> View Live Website</a></p>
+                    <p><a rel='noreferrer' target='_blank' href={link}>  <FiExternalLink/> View Live Website</a></p>
                  
                       
                   </div>

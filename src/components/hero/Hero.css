@@ -67,3 +67,23 @@
         padding: 15px;
         cursor: pointer;
 }
+
+@media all and (max-width: 967px) {
+    /* your content here */
+
+    .hero-section-inner{
+
+        flex-direction: column;
+    }
+
+    .hero-section-right{
+
+        width: 80%;
+        margin-top: 20px;
+    }
+    .hero-section-left{
+
+        width: 100%;
+    }
+
+}

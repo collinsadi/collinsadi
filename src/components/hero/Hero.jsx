@@ -14,7 +14,7 @@ export const Hero = () => {
                       <h1>I'm <span>Collins Oribo</span> </h1>
                       <p>Web Developer | Tech Enthusiast | Minimalist </p>
 
-                      <a href="/"><button>See My Projects</button></a>
+                      <a href="#projects"><button>See My Projects</button></a>
                   </div>
 
               </div>

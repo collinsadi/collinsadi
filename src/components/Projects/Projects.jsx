@@ -15,7 +15,7 @@ import {SiExpress,SiMongodb} from "react-icons/si"
 
 export const Projects = () => {
   return (
-      <div className="projects-section">
+      <div id='projects' className="projects-section">
           
           <div className="projects-section-inner">
 

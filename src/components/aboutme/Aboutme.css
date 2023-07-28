@@ -1,0 +1,22 @@
+.about-me-section{
+
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.self-description{
+
+    width: 100%x;
+    padding: 15px;
+    max-width: 100%;
+    color: var(--neutral2);
+    font-size: 30px;
+}
+
+.about-me-section span{
+
+    color: var(--accent);
+}

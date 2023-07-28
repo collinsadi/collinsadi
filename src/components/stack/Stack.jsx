@@ -9,7 +9,7 @@ import {BsPencilFill} from "react-icons/bs"
 
 export const Stack = () => {
   return (
-      <div className="stack-section">
+      <div id='stack' className="stack-section">
           
           <div className="stack-section-inner">
               

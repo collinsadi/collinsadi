@@ -42,3 +42,16 @@
 
     margin-left: 10px;
 }
+
+
+@media all and (max-width: 967px) {
+    /* your content here */
+
+    .stack{
+
+        width: 150px;
+        padding: 10px;
+    }
+
+
+}

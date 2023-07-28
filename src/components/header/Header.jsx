@@ -14,10 +14,10 @@ export const Header = () => {
               
               <div className="header-buttons">
                   
-                  <a href="/about">About</a>
-                  <a href="/projects">Projects</a>
-                  <a href="/projects">Stack</a>
-                  <a href="/projects">Codellins</a>
+                  <a href="#about">About</a>
+                  <a href="#projects">Projects</a>
+                  <a href="#stack">Stack</a>
+                
 
               </div>
 
