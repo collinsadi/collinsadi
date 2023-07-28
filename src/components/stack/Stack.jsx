@@ -2,8 +2,9 @@ import React from 'react'
 import "./Stack.css"
 import {FaJs,FaNode,FaCss3,FaHtml5,FaBootstrap,FaSass,FaReact,} from "react-icons/fa"
 import {BiLogoTypescript,BiLogoJquery} from "react-icons/bi"
-import {SiExpress,SiMongodb,SiFastapi} from "react-icons/si"
+import {SiExpress,SiMongodb,SiFastapi,SiAdobephotoshop} from "react-icons/si"
 import {TbBrandVscode} from "react-icons/tb"
+import {BsPencilFill} from "react-icons/bs"
 
 
 export const Stack = () => {
@@ -161,6 +162,28 @@ export const Stack = () => {
                       
                       <div className="stack-language">
                           <p>VS Code</p>
+                      </div>
+
+                </div>
+                  <div className="stack">
+                      
+                      <div className="stack-logo">
+                          <SiAdobephotoshop />
+                      </div>
+                      
+                      <div className="stack-language">
+                          <p>Adobe Photoshop</p>
+                      </div>
+
+                </div>
+                  <div className="stack">
+                      
+                      <div className="stack-logo">
+                          <BsPencilFill />
+                      </div>
+                      
+                      <div className="stack-language">
+                          <p>Corel Draw</p>
                       </div>
 
                 </div>

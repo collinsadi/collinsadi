@@ -6,11 +6,12 @@ import formlinx from "../images/formlinx.png"
 import hadifoxapi from "../images/hadifoxapi.png"
 import gimbalite from "../images/gimbalite.png"
 import hadifox from "../images/hadifox.png"
+import salus from "../images/salus.png"
 
 
 
-import {FaJs,FaNode,FaCss3,FaHtml5,FaBootstrap,FaSass,FaReact,} from "react-icons/fa"
-import {SiExpress,SiMongodb,SiFastapi} from "react-icons/si"
+import {FaJs,FaNode,FaCss3,FaHtml5,FaSass,FaReact,} from "react-icons/fa"
+import {SiExpress,SiMongodb} from "react-icons/si"
 
 export const Projects = () => {
   return (
@@ -41,7 +42,9 @@ export const Projects = () => {
                   
                   <ProjectsCard image={gimbalite} title="Gimba Lite" desc="Discover My fully functional blog content management system, equipped with a user verification system, community control, personalized user profiles, and a powerful rich text editor. This editor empowers users to create and format content effortlessly, making their blogging experience seamless and enjoyable. Stay tuned for the upcoming advanced version, which will introduce even more exciting features to elevate your blogging journey." icons={[<FaNode />, <SiExpress />, <FaCss3 />, <SiMongodb />]} link="https://gimba.onrender.com/" />
                   
-                <ProjectsCard image={hadifox} title="Hadifox V1" desc="A really cool online shopping website, I used HTML, CSS, and JavaScript to build it. It was a fun and exciting project where I got to design how the website looks and how people can interact with it." icons={[<FaHtml5 />,<FaSass />,<FaCss3 />, <FaJs />]} link="https://collinsadi.github.io/hadifox/"  />
+                  <ProjectsCard image={hadifox} title="Hadifox V1" desc="A really cool online shopping website, I used HTML, CSS, and JavaScript to build it. It was a fun and exciting project where I got to design how the website looks and how people can interact with it." icons={[<FaHtml5 />, <FaSass />, <FaCss3 />, <FaJs />]} link="https://collinsadi.github.io/hadifox/" />
+                  
+                <ProjectsCard image={salus} title="Salus Auri" desc="A Crypto Website, Built With HTML CSS and Javascript, as Part of My Beginner Projects" icons={[<FaHtml5 />,<FaCss3 />, <FaJs />]} link="https://collinsadi.github.io/salus-auri/#"  />
 
 
 
@@ -50,6 +53,12 @@ export const Projects = () => {
                   
              
                   
+              </div>
+
+              <div className="for-more">
+                  
+                <a href="https://github.com/collinsadi"><button>Visit Github for More</button></a>
+
               </div>
 
               
