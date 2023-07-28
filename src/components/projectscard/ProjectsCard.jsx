@@ -1,6 +1,6 @@
 import React from 'react'
-import demo from "../images/portfoliowebsite.png"
-import {FaJs,FaNode,FaCss3,FaHtml5,FaBootstrap,FaSass,FaReact,} from "react-icons/fa"
+
+
 import { FiExternalLink } from "react-icons/fi"
 import {GrOverview} from "react-icons/gr"
 
@@ -8,34 +8,36 @@ import {GrOverview} from "react-icons/gr"
 
 
 
-export const ProjectsCard = () => {
+export const ProjectsCard = ({image,title,desc,icons,link}) => {
   return (
      <div className="project-card">
 
                   <div className="project-image">
                       
-                      <img src={demo} alt="" />
+                      <img src={image} alt="" />
 
                   </div>
                   
                   <div className="project-description">
                       
-              <h3>Portfolio Website</h3>
-              <p>A Minimal Portfolio Website, Showcasing Some Basic Informations About Me, My Skills Set, and Some Of My Projects.</p>
+              <h3>{ title }</h3>
+              <p>{ desc}</p>
 
                   </div>
 
                   <div className="project-technologies">
 
-                    <FaReact />
+              {icons.map((icon, index) => (
+            <span key={index}>{icon}</span>
+                ))}
               
 
                   </div>
 
                 <div className="project-navigation">
               
-                    <p><a href="/">  <FiExternalLink/> View Live Website</a></p>
-                    <p><a href="/"> Project Details</a></p>
+                    <p><a target='_blank' href={link}>  <FiExternalLink/> View Live Website</a></p>
+                 
                       
                   </div>
                   

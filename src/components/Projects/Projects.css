@@ -66,6 +66,11 @@
     width: 100%;
     color: var(--neutral2);
     font-size: 18px;
+  
+}
+.project-technologies span{
+
+    margin-left: 15px;
 }
 .project-navigation{
 
