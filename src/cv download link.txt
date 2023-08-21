@@ -1,0 +1,33 @@
+https://drive.google.com/uc?export=download&id=1uGrr6YI8BYfX85ycdEXB66IxlcdXPOLI
+
+
+
+
+
+
+
+
+import React from 'react';
+
+const DownloadButton = () => {
+  const handleDownload = () => {
+    const fileUrl = 'https://drive.google.com/uc?export=download&id=your-file-id'; // Replace with the direct download link
+
+    // Create an anchor element
+    const anchor = document.createElement('a');
+    anchor.href = fileUrl;
+    anchor.target = '_blank'; // Open the link in a new tab
+    anchor.rel = 'noopener noreferrer';
+
+    // Programmatically trigger a click event on the anchor element
+    anchor.click();
+  };
+
+  return (
+    <button onClick={handleDownload}>
+      Download File
+    </button>
+  );
+};
+
+export default DownloadButton;
