@@ -7,6 +7,7 @@ import hadifoxapi from "../images/hadifoxapi.png"
 import gimbalite from "../images/gimbalite.png"
 import hadifox from "../images/hadifox.png"
 import salus from "../images/salus.png"
+import vent from "../images/vent.png"
 
 
 
@@ -34,6 +35,8 @@ export const Projects = () => {
 
                   
 
+          <ProjectsCard image={vent} title="Anonymous Vent" desc="Introducing VENT, an Idea from Osuchukwu Chinonso Emmanuel, who Owns NEVERDOWN CO., VENT is a Place Where you can share how you feel without anyone knowing it is you, it's like talking to a secret friend online. Join VENT to express yourself freely and anonymously. Thanks to Emmanuel's Thoughtful Concept and also Thanks to Me for Bringing it to life." icons={[<FaNode />, <FaCss3 />, <SiExpress />, <SiMongodb />]} link="https://anonvent.onrender.com" />
+          
                   <ProjectsCard image={demo} title="Portfolio Website" desc="A Minimal Portfolio Website, Showcasing Some Basic Informations About Me, My Skills Set, and Some Of My Projects." icons={[<FaReact />]} link="https://github.com/collinsadi/collinsadi" />
                   
                   <ProjectsCard image={formlinx} title="Formlinx" desc="Advanced Form Handler API, designed to effortlessly direct HTML form submissions to users' email addresses. Simplify communication, capture crucial information, and build meaningful connections with ease." icons={[<FaNode />, <FaCss3 />, <SiExpress />, <SiMongodb />]} link="https://formlinx.onrender.com/" />

@@ -14,7 +14,13 @@ export const Hero = () => {
                       <h1>I'm <span>Collins Oribo</span> </h1>
                       <p>Web Developer | Tech Enthusiast | Minimalist </p>
 
-                      <a href="#projects"><button>See My Projects</button></a>
+                      <div className="buttons">
+
+                          <a href="#projects"><button>See My Projects</button></a>
+                      <a href="https://drive.google.com/uc?export=download&id=1uGrr6YI8BYfX85ycdEXB66IxlcdXPOLI"><button>Download CV</button></a>
+                      </div>
+
+                      
                   </div>
 
               </div>
