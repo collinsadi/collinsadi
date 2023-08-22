@@ -8,6 +8,7 @@ import gimbalite from "../images/gimbalite.png"
 import hadifox from "../images/hadifox.png"
 import salus from "../images/salus.png"
 import vent from "../images/vent.png"
+import kpulu from "../images/kpulu.jpg"
 
 
 
@@ -34,6 +35,9 @@ export const Projects = () => {
 
 
                   
+
+          <ProjectsCard image={kpulu} title="Kpulu URL (Telegram Bot)" desc="Kpulu is a kalabari Language that means SHORT and this Project is Url Shortener Telegram Bot that Takes your long URL and returns a Shortened One, Short URL Redirects are so swift and fast." icons={[<FaNode />, <SiExpress />, <SiMongodb />]} link="https://t.me/kpulubot" />
+
 
           <ProjectsCard image={vent} title="Anonymous Vent" desc="Introducing VENT, an Idea from Osuchukwu Chinonso Emmanuel, who Owns NEVERDOWN CO., VENT is a Place Where you can share how you feel without anyone knowing it is you, it's like talking to a secret friend online. Join VENT to express yourself freely and anonymously. Thanks to Emmanuel's Thoughtful Concept and also Thanks to Me for Bringing it to life." icons={[<FaNode />, <FaCss3 />, <SiExpress />, <SiMongodb />]} link="https://anonvent.onrender.com" />
           
