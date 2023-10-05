@@ -1,8 +1,8 @@
 import React from 'react'
 import "./Stack.css"
-import {FaJs,FaNode,FaCss3,FaHtml5,FaBootstrap,FaSass,FaReact,} from "react-icons/fa"
-import {BiLogoTypescript,BiLogoJquery} from "react-icons/bi"
-import {SiExpress,SiMongodb,SiFastapi,SiAdobephotoshop} from "react-icons/si"
+import {FaJs,FaNode,FaCss3,FaHtml5,FaSass,FaReact,} from "react-icons/fa"
+import {BiLogoJquery} from "react-icons/bi"
+import {SiExpress,SiMongodb,SiAdobephotoshop} from "react-icons/si"
 import {TbBrandVscode} from "react-icons/tb"
 import {BsPencilFill} from "react-icons/bs"
 
@@ -54,17 +54,7 @@ export const Stack = () => {
                       </div>
 
                 </div>
-                  <div className="stack">
-                      
-                      <div className="stack-logo">
-                          <BiLogoTypescript />
-                      </div>
-                      
-                      <div className="stack-language">
-                          <p>Typescript</p>
-                      </div>
-
-                </div>
+                 
                   <div className="stack">
                       
                       <div className="stack-logo">
@@ -88,17 +78,7 @@ export const Stack = () => {
                       </div>
 
                 </div>
-                  <div className="stack">
-                      
-                      <div className="stack-logo">
-                          <SiFastapi />
-                      </div>
-                      
-                      <div className="stack-language">
-                          <p>Fast API (Python)</p>
-                      </div>
-
-                </div>
+                 
                   <div className="stack">
                       
                       <div className="stack-logo">
@@ -143,17 +123,7 @@ export const Stack = () => {
                       </div>
 
                 </div>
-                  <div className="stack">
-                      
-                      <div className="stack-logo">
-                          <FaBootstrap />
-                      </div>
-                      
-                      <div className="stack-language">
-                          <p>Bootstrap</p>
-                      </div>
-
-                </div>
+                 
                   <div className="stack">
                       
                       <div className="stack-logo">
