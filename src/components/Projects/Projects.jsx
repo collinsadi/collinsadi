@@ -10,6 +10,7 @@ import salus from "../images/salus.png"
 import vent from "../images/vent.png"
 // import kpulu from "../images/kpulu.jpg"
 import chowlin from "../images/chowlin.png"
+import domcraft from "../images/domcraft.png"
 
 
 
@@ -37,6 +38,8 @@ export const Projects = () => {
 
                   
 
+          <ProjectsCard image={domcraft} title="DOMCraft.js" desc="DOMCraft.js is a simple and lightweight JavaScript library designed to provide basic DOM manipulation and event handling functionalities." icons={[<FaJs />]} link="https://codellins.github.io/domcraft/v1/" />
+          
           <ProjectsCard image={chowlin} title="Chowlin" desc="Chowlin is a Fully Functional Food Ordering Platform, with User and Vendor Sections, including a digital wallet" icons={[<FaHtml5 />,<FaCss3 />, <FaJs />,<FaNode />, <SiExpress />, <SiMongodb />]} link="https://chowlin.onrender.com" />
 
 
