@@ -19,6 +19,8 @@ I'm a passionate JavaScript developer with expertise in Node.js and React. Welco
 
 Here are some of the projects I've worked on:
 
+- [Simbyosis](https://simbyosis.com) - A peer to peer e-commerce platform, with an escrow system.
+- [Auraroom](https://auraroom.xyz) - An anonymous messaging platform.
 - [Chowlin](https://chowlin.onrender.com) - A Multi-Vendor Food Delivery Platform with Digital Wallet.
 - [Gimba CMS](https://gimba.onrender.com) - A Blogging Content Management System.
 - [Formlinx](https://formlinx.onrender.com) - An HTML Form Handler Platform for Frontend Developers.
