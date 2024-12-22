@@ -1,4 +1,4 @@
-import sampleImage from "../../assets/auraroom.png";
+// import sampleImage from "../../assets/auraroom.png";
 import { GoDash, GoArrowUpRight } from "react-icons/go";
 
 type ProjectCartProps = {
