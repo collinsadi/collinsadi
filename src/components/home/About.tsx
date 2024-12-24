@@ -6,7 +6,7 @@ export const About = () => {
         Building <span className="underline">Softwares</span> .
       </h3>
       <p className="mt-5 text-xl">
-        I'm the Creator of <a href="">auraroom.xyz</a> and{" "}
+        Creator of <a href="">auraroom.xyz</a> and{" "}
         <a href="">safemind.app</a>
       </p>
     </section>
