@@ -8,10 +8,10 @@ I'm a passionate full-stack and blockchain developer dedicated to building innov
 - **Mobile:** React Native | Expo  
 - **Blockchain:** Solidity | Hardhat | Wagmi  
 
-## Top Projects  
+## Top Projects 
+- **[Tethry](https://tethry.xyz):** Seamless, Gasless Stablecoin wallet.  
 - **[Safemind](https://safemind.app):** Decentralized mental health platform with secure, anonymous interactions powered by the SMD token.  
-- **[AuraRoom](https://auraroom.xyz):** Anonymous chat platform with encrypted, ephemeral conversations.  
-- **[Simbyosis](https://simbyosis.com):** Peer-to-peer e-commerce with escrow.  
+- **[AuraRoom](https://auraroom.xyz):** Anonymous chat platform with encrypted, ephemeral conversations. 
 
 ## Connect  
 - 📫 Email: [hello@collinsadi.me](mailto:hello@collinsadi.me)  
