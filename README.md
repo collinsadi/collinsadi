@@ -14,7 +14,7 @@ I'm a passionate full-stack and blockchain developer dedicated to building innov
 - **[AuraRoom](https://auraroom.xyz):** Anonymous chat platform with encrypted, ephemeral conversations. 
 
 ## Connect  
-- 📫 Email: [hello@collinsadi.me](mailto:hello@collinsadi.me)  
+- 📫 Email: [hello@collinsadi.xyz](mailto:hello@collinsadi.xyz)  
 - 🐦 Twitter: [@codellins](https://twitter.com/codellins)  
 
 Let’s build something amazing together! 🚀  
