@@ -1,4 +1,3 @@
-import allien from "../../assets/allien.jpg";
 import { GoArrowUpRight } from "react-icons/go";
 import { BsTwitterX } from "react-icons/bs";
 import {  FaGithub } from "react-icons/fa";
@@ -76,7 +75,7 @@ export const AboutMe = () => {
       </div>
 
       <div className="md:w-[50%] w-full flex items-center justify-end">
-        <img className="rounded-xl" src={allien} alt="" />
+        <img className="rounded-xl" src="/allien.JPG" alt="" />
       </div>
     </section>
   );
