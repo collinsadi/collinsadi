@@ -1,7 +1,7 @@
-import allien from "../../assets/allien.jpeg";
+import allien from "../../assets/allien.jpg";
 import { GoArrowUpRight } from "react-icons/go";
 import { BsTwitterX } from "react-icons/bs";
-import { FaLinkedin, FaGithub } from "react-icons/fa";
+import {  FaGithub } from "react-icons/fa";
 import { FaHashnode } from "react-icons/fa6";
 export const AboutMe = () => {
   return (
@@ -31,16 +31,14 @@ export const AboutMe = () => {
             </div>
           </a>
 
-          <a href="https://linkedin.com/in/collinsadi" target="_blank">
+          {/* <a href="https://linkedin.com/in/collinsadi" target="_blank">
             <div className="flex items-center ml-5">
               <h3 className="font-bold">
                 <FaLinkedin />
               </h3>{" "}
-              {/* <span className="ml-2">
-              <GoArrowUpRight />
-            </span> */}
+             
             </div>
-          </a>
+          </a> */}
 
           <a href="https://github.com/collinsadi" target="_blank">
             <div className="flex items-center ml-5">
