@@ -1,6 +1,8 @@
 # Hello, I'm Collins Adi 👋  
 
-I'm a passionate full-stack and blockchain developer dedicated to building innovative, scalable, and user-friendly applications.  
+## El código es mi espada, la libertad es mi escudo.
+
+![Hacker Vibe](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTI4M2kzaXBwMm5hYzN5Y2txN2MzZzF4dXNlNmpocnVnZndvZ3NzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FnGJfc18tDDHy/giphy.gif)
 
 ## Tech Stack  
 - **Frontend:** React.js | Next.js  
@@ -15,6 +17,6 @@ I'm a passionate full-stack and blockchain developer dedicated to building innov
 
 ## Connect  
 - 📫 Email: [hello@collinsadi.xyz](mailto:hello@collinsadi.xyz)  
-- 🐦 Twitter: [@codellins](https://twitter.com/codellins)  
+
 
 Let’s build something amazing together! 🚀  
