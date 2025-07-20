@@ -11,6 +11,7 @@
 - **Blockchain:** Solidity | Hardhat | Wagmi  
 
 ## Top Projects 
+- **[SaySched](https://saysched.xyz):** Intelligent appointment scheduling through natural conversation. 
 - **[Tethry](https://tethry.xyz):** Seamless, Gasless Stablecoin wallet.  
 - **[Safemind](https://safemind.app):** Decentralized mental health platform with secure, anonymous interactions powered by the SMD token.  
 - **[AuraRoom](https://auraroom.xyz):** Anonymous chat platform with encrypted, ephemeral conversations. 
