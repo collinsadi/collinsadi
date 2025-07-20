@@ -1,7 +1,9 @@
 import { GoArrowUpRight } from "react-icons/go";
 import { BsTwitterX } from "react-icons/bs";
-import {  FaGithub } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
 import { FaHashnode } from "react-icons/fa6";
+import { FaLinkedin } from "react-icons/fa";
+
 export const AboutMe = () => {
   return (
     <section className="w-full my-10 flex items-center  justify-between md:flex-row flex-col-reverse">
@@ -30,14 +32,13 @@ export const AboutMe = () => {
             </div>
           </a>
 
-          {/* <a href="https://linkedin.com/in/collinsadi" target="_blank">
+          <a href="https://linkedin.com/in/collinsadi" target="_blank">
             <div className="flex items-center ml-5">
               <h3 className="font-bold">
                 <FaLinkedin />
               </h3>{" "}
-             
             </div>
-          </a> */}
+          </a>
 
           <a href="https://github.com/collinsadi" target="_blank">
             <div className="flex items-center ml-5">

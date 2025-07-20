@@ -8,6 +8,17 @@ export const Projects = () => {
       </div>
 
       <div>
+
+
+      <ProjectCard
+          projectName="SaySched"
+          type="AI Agent"
+          title="AI Scheduling Assistant"
+          description="SaySched is an AI-powered scheduling assistant available on WhatsApp and Telegram. It lets users create appointments, set reminders, and sync with Google Calendar using natural language, voice notes, or event images. Designed for simplicity and speed, SaySched makes scheduling as easy as chatting."
+          image="https://res.cloudinary.com/dnz4clv0s/image/upload/v1753047001/saysched_cmikpy.png"
+          link="https://saysched.xyz"
+        />
+
         <ProjectCard
           projectName="Safemind"
           type="Website"
