@@ -11,8 +11,8 @@
 - **Blockchain:** Solidity | Hardhat | Wagmi  
 
 ## Top Projects 
+- **[Reeng](https://reeng.xyz):** Wearable stablecoin wallet.  
 - **[SaySched](https://saysched.xyz):** Intelligent appointment scheduling through natural conversation. 
-- **[Tethry](https://tethry.xyz):** Seamless, Gasless Stablecoin wallet.  
 - **[AuraRoom](https://auraroom.xyz):** Anonymous chat platform with encrypted, ephemeral conversations. 
 
 ## Connect  
