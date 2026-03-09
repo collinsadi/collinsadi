@@ -9,6 +9,32 @@
 
 @layer base {
   body {
-    @apply bg-zinc-50 text-zinc-900 antialiased;
+    @apply antialiased font-mono text-sm;
+    @apply bg-white text-black;
+    @apply dark:bg-black dark:text-white;
   }
+}
+
+/* Brutalist: no rounded corners on form elements */
+input,
+button,
+textarea {
+  border-radius: 0;
+}
+
+/* Prose overrides for blog: monospace body, high-contrast */
+.prose-brutalist {
+  @apply font-mono text-sm;
+}
+.prose-brutalist h1,
+.prose-brutalist h2,
+.prose-brutalist h3 {
+  @apply font-sans font-bold uppercase tracking-tight;
+}
+.prose-brutalist a {
+  @apply underline underline-offset-2;
+}
+.prose-brutalist pre,
+.prose-brutalist code {
+  @apply border border-black dark:border-white bg-transparent font-mono;
 }

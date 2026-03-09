@@ -1,0 +1,7 @@
+# Collins Adi — Protocol Architect & Software Engineer
+
+For a full machine-readable summary (Markdown) for AI scrapers and LLMs, see:
+
+/context
+
+Or visit the site: /
