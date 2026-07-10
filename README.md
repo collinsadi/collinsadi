@@ -10,6 +10,7 @@ Author of [EIP-8174](https://ethereum-magicians.org/t/erc-8174-intent-spec-for-c
 
 - [Zawadi Protocol](https://github.com/collinsadi/zawadi) — hackathon escrow, live on Optimism
 - [Opaque Cash](https://opaque.cash) — stealth addresses with programmable reputation on Ethereum and Solana
+- [Kivuli](https://kivuli.xyz) — private cash app, reference implementation of Opaque Cash
 - [Intentspec](https://intentspec.collinsadi.xyz/) — reference implementation of EIP-8174
 
 ## Stack
