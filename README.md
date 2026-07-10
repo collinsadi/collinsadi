@@ -1,6 +1,6 @@
 # Collins Adi
 
-Protocol engineer · smart contracts · AI agent infrastructure · ZK privacy · Nairobi, Kenya
+Protocol engineer · smart contracts · ZK privacy · Nairobi, Kenya
 
 Founder of [Reeng](https://reeng.xyz), a wearable USDC wallet, NFC ring, tap-to-pay, live in San Francisco and Africa.
 
