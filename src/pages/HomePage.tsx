@@ -86,7 +86,7 @@ export function HomePage() {
             Digital nomad obsessed with building things that work. I ship protocols, agents, and products. Less theory, more shipped.
           </p>
           <p>
-            21, based in Nairobi, Kenya. Protocol design, agent infrastructure, and privacy primitives. Always hacking on the next thing.
+            Based in Nairobi, Kenya. Protocol design, agent infrastructure, and privacy primitives. Always hacking on the next thing.
           </p>
         </motion.div>
       </section>
